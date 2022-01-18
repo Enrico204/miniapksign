@@ -1,0 +1,8 @@
+bin/
+pkg/
+src/
+.idea/
+*.iml
+.DS_Store
+.env
+*.wiki.git
